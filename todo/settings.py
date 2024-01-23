@@ -33,8 +33,8 @@ SECRET_KEY = env("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["web-production-34d6.up.railway.app"]
-CSRF_TRUSTED_ORIGINS = ["https://web-production-34d6.up.railway.app"]
+ALLOWED_HOSTS = ["django-todo-app-production-36a6.up.railway.app"]
+CSRF_TRUSTED_ORIGINS = ["https://django-todo-app-production-36a6.up.railway.app"]
 # CSRF_TRUSTED_ORIGINS = ["https://web-production-34d6.up.railway.app/"]
 
 
